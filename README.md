@@ -7,3 +7,4 @@ This was created with the purpose of learning/practicing GitHub.
 ## Subheader
 
 This change was made from VS Code! :D
+Note to Self: To change from one branch to another use "git checkout -b nameOfBranch"
